@@ -1,0 +1,10 @@
+Package: curtz
+Title: What the Package Does (just a trial, trying out)
+Version: 0.0.0.9000
+Authors@R: person("Vijay", "Krishnavanshi", email = "vijaykrishnavanshi@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.2.3)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1.9000
